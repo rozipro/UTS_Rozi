@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">UTS_BotNav&amp;RecView</string>
+    <string name="char_name">Nama Karakter</string>
+    <string name="char_desc">Deskripsi Karakter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //nama char
+    <string name="bumbelbee">Bumbelbee</string>
+    <string name="optimus">Optimus</string>
+    <string name="grimlock">Grimlock</string>
+    <string name="hound">Hound</string>
+    <string name="starscream">Starscream</string>
+    <string name="ironhide">Ironhide</string>
+    <string name="megatron">Megatron</string>
+    <string name="mudflap_skids">Mudflap_Skids</string>
+    <string name="ratchet">Ratchet</string>
+    <string name="sentinel">Sentinel</string>
+
+    //desc char
+    <string name="desc_hound">Hound adalah salah satu anggota Autobots pimpinan Optimus Prime. Ia bisa berubah menjadi sebuah mobil Mitsubishi J59, yang merupakan sebuah mobil jeep tempur militer. Hound telah tampil sejak serial Transformers season satu G1.</string>
+    <string name="desc_ironhide">"Ironhide adalah salah satu karakter robot fiksi dari serial Transformers.</string>
+    <string name="desc_optimus">Optimus Prime adalah nama untuk karakter robot fiksi dan tokoh protagonis dari serial The Transformers.</string>
+    <string name="desc_bumbelbee">Bumblebee merupakan salah satu karakter robot fiksi dalam serial Transformers. Ia merupakan salah satu tokoh robot yang popular dalam serial tersebut selain Optimus Prime dan Megatron. Bumblebee merupakan salah satu anggota Autobots..</string>
+    <string name="desc_sentinel">Sentinel Prime aslinya merupakan anggota Transformers yang berasal dari komik versi Marvel. Ia merupakan pendahulu dari Optimus Prime yang tewas dalam sebuah pertarungan di Cybertron. Sebelum tewas ia menyerahkan Autobot Matrix of Leadership kepada Optimus. Robot yang mempunyai penampilan yang mirip dengan Sentinel adalah Rodimus Prime</string>
+    <string name="desc_grimlock">Grimlock adalah nama untuk salah satu karakter robot fiksi dari serial The Transformers. Ia merupakan pemimpin dari tim Dinobots yang merupakan sub-grup dari Autobots. Ia terkenal karena kekuatannya yang besar dan juga model alternatifnya sebagai Tyrannosaurus Rex..</string>
+    <string name="desc_megatron">Megatron dalam serial kartun Transformers digambarkan bisa berubah menjadi sebuah pistol Walther P38. Ia adalah salah satu tokoh utama dalam serial ini selain musuh bebuyutannya, Optimus Prime.</string>
+    <string name="desc_mudflap_skids">Skids adalah bagian dari pasukan penyerang yang dikirim untuk menghentikan Insecticons merusak peternakan manusia, hanya untuk menemui kegagalan. Rupanya terluka dalam pertempuran, Skids menjalani beberapa perbaikan oleh Hoist saat kembali ke Markas Autobot, di mana dia menanggapi dengan tidak percaya laporan Bumblebee bahwa dia telah mengambil robot insektisida dari planet Floron III untuk menghadapi ancaman Insecticon.</string>
+    <string name="desc_ratchet">Ratchet adalah salah satu staf medis dari tim Autobots, baik di versi Takara (Jepang) ataupun di versi Hasbro (AS). Mode alternatifnya adalah mobil ambulans dengan warna putih strip merah.</string>
+    <string name="desc_starscream">Starscream digambarkan bisa berubah menjadi pesawat F-15 Eagle. Ia merupakan tangan kanan Megatron, tetapi dibalik kesetiaan pada Megatron tersebut tersimpan sebuah hasrat bahwa ia ingin merebut kekuasaan sebagai pemimpin Decepticons dari tangan Megatron. Ia juga dikenal sebagai pemimpin tim Seekers yang beranggotakan Skywarp, Thundercracker (season satu), Ramjet, Dirge, dan Thrust.</string>
+ //profile
+    <string name="syahrul">Syahrul Rozi</string>
+    <string name="desc_syahrul">NIM : 2110031802086  E-Mail : 2110031802086@sar.ac.id</string>
+</resources>
+
